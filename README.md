@@ -37,7 +37,7 @@ Designed to help users create refined, creative, and visually rich prompts with 
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/promptg-ai.git
+git clone https://github.com/maulananais/promptg-ai.git
 cd promptg-ai
 npm install
 ```
@@ -61,7 +61,7 @@ This key is stored in localStorage on your browser — never sent to a backend.
 
 PromptG AI is optimized for instant deployment on Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/promptg-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/maulananais/promptg-ai)
 
 ### 📋 Deployment Steps
 
